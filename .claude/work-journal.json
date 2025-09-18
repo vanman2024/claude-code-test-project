@@ -1,0 +1,711 @@
+{
+  "entries": [
+    {
+      "timestamp": "2025-09-18T23:16:35Z",
+      "branch": "main",
+      "uncommitted": 3,
+      "unpushed": 7,
+      "last_commit": "04c23b0 Merge branch 'main' of https://github.com/vanman2024/multi-agent-claude-code"
+    },
+    {
+      "timestamp": "2025-09-18T23:10:39Z",
+      "branch": "main",
+      "uncommitted": 1,
+      "unpushed": 7,
+      "last_commit": "04c23b0 Merge branch 'main' of https://github.com/vanman2024/multi-agent-claude-code"
+    },
+    {
+      "timestamp": "2025-09-18T23:06:51Z",
+      "branch": "main",
+      "uncommitted": 1,
+      "unpushed": 7,
+      "last_commit": "04c23b0 Merge branch 'main' of https://github.com/vanman2024/multi-agent-claude-code"
+    },
+    {
+      "timestamp": "2025-09-18T23:04:46Z",
+      "branch": "main",
+      "uncommitted": 1,
+      "unpushed": 7,
+      "last_commit": "04c23b0 Merge branch 'main' of https://github.com/vanman2024/multi-agent-claude-code"
+    },
+    {
+      "timestamp": "2025-09-18T23:03:23Z",
+      "branch": "main",
+      "uncommitted": 1,
+      "unpushed": 7,
+      "last_commit": "04c23b0 Merge branch 'main' of https://github.com/vanman2024/multi-agent-claude-code"
+    },
+    {
+      "timestamp": "2025-09-18T23:02:02Z",
+      "branch": "main",
+      "uncommitted": 1,
+      "unpushed": 7,
+      "last_commit": "04c23b0 Merge branch 'main' of https://github.com/vanman2024/multi-agent-claude-code"
+    },
+    {
+      "timestamp": "2025-09-18T22:52:25Z",
+      "branch": "main",
+      "uncommitted": 0,
+      "unpushed": 6,
+      "last_commit": "b974912 Merge branch 'main' of https://github.com/vanman2024/multi-agent-claude-code"
+    },
+    {
+      "timestamp": "2025-09-18T22:36:18Z",
+      "branch": "main",
+      "uncommitted": 0,
+      "unpushed": 2,
+      "last_commit": "c88f857 Merge auto-deploy PR: sync DevOps v1.5.0 to template"
+    },
+    {
+      "timestamp": "2025-09-18T22:33:51Z",
+      "branch": "main",
+      "uncommitted": 0,
+      "unpushed": 1,
+      "last_commit": "0ab8885 fix: remove DevOps .github directory from template"
+    },
+    {
+      "timestamp": "2025-09-18T22:26:11Z",
+      "branch": "main",
+      "uncommitted": 60,
+      "unpushed": 0,
+      "last_commit": "d2ea77b feat: update git message template for multi-agent support"
+    },
+    {
+      "timestamp": "2025-09-18T22:15:15Z",
+      "branch": "main",
+      "uncommitted": 60,
+      "unpushed": 0,
+      "last_commit": "d2ea77b feat: update git message template for multi-agent support"
+    },
+    {
+      "timestamp": "2025-09-18T22:14:03Z",
+      "branch": "main",
+      "uncommitted": 60,
+      "unpushed": 0,
+      "last_commit": "d2ea77b feat: update git message template for multi-agent support"
+    },
+    {
+      "timestamp": "2025-09-18T22:12:51Z",
+      "branch": "main",
+      "uncommitted": 60,
+      "unpushed": 0,
+      "last_commit": "d2ea77b feat: update git message template for multi-agent support"
+    },
+    {
+      "timestamp": "2025-09-18T22:10:23Z",
+      "branch": "main",
+      "uncommitted": 60,
+      "unpushed": 0,
+      "last_commit": "d2ea77b feat: update git message template for multi-agent support"
+    },
+    {
+      "timestamp": "2025-09-18T22:08:43Z",
+      "branch": "main",
+      "uncommitted": 60,
+      "unpushed": 0,
+      "last_commit": "d2ea77b feat: update git message template for multi-agent support"
+    },
+    {
+      "timestamp": "2025-09-18T22:04:25Z",
+      "branch": "main",
+      "uncommitted": 59,
+      "unpushed": 0,
+      "last_commit": "d2ea77b feat: update git message template for multi-agent support"
+    },
+    {
+      "timestamp": "2025-09-18T21:58:13Z",
+      "branch": "main",
+      "uncommitted": 58,
+      "unpushed": 0,
+      "last_commit": "d2ea77b feat: update git message template for multi-agent support"
+    },
+    {
+      "timestamp": "2025-09-18T21:55:23Z",
+      "branch": "main",
+      "uncommitted": 19,
+      "unpushed": 0,
+      "last_commit": "d2ea77b feat: update git message template for multi-agent support"
+    },
+    {
+      "timestamp": "2025-09-18T21:50:25Z",
+      "branch": "main",
+      "uncommitted": 19,
+      "unpushed": 0,
+      "last_commit": "d2ea77b feat: update git message template for multi-agent support"
+    },
+    {
+      "timestamp": "2025-09-18T21:46:30Z",
+      "branch": "main",
+      "uncommitted": 19,
+      "unpushed": 0,
+      "last_commit": "d2ea77b feat: update git message template for multi-agent support"
+    },
+    {
+      "timestamp": "2025-09-18T21:42:17Z",
+      "branch": "main",
+      "uncommitted": 20,
+      "unpushed": 0,
+      "last_commit": "d2ea77b feat: update git message template for multi-agent support"
+    },
+    {
+      "timestamp": "2025-09-18T21:35:51Z",
+      "branch": "main",
+      "uncommitted": 20,
+      "unpushed": 0,
+      "last_commit": "d2ea77b feat: update git message template for multi-agent support"
+    },
+    {
+      "timestamp": "2025-09-18T21:21:11Z",
+      "branch": "main",
+      "uncommitted": 15,
+      "unpushed": 0,
+      "last_commit": "d2ea77b feat: update git message template for multi-agent support"
+    },
+    {
+      "timestamp": "2025-09-18T21:20:56Z",
+      "branch": "main",
+      "uncommitted": 15,
+      "unpushed": 0,
+      "last_commit": "d2ea77b feat: update git message template for multi-agent support"
+    },
+    {
+      "timestamp": "2025-09-18T21:08:14Z",
+      "branch": "main",
+      "uncommitted": 12,
+      "unpushed": 0,
+      "last_commit": "d2ea77b feat: update git message template for multi-agent support"
+    },
+    {
+      "timestamp": "2025-09-18T20:57:20Z",
+      "branch": "main",
+      "uncommitted": 7,
+      "unpushed": 0,
+      "last_commit": "d2ea77b feat: update git message template for multi-agent support"
+    },
+    {
+      "timestamp": "2025-09-18T20:54:27Z",
+      "branch": "main",
+      "uncommitted": 8,
+      "unpushed": 0,
+      "last_commit": "d2ea77b feat: update git message template for multi-agent support"
+    },
+    {
+      "timestamp": "2025-09-18T20:43:21Z",
+      "branch": "main",
+      "uncommitted": 1,
+      "unpushed": 0,
+      "last_commit": "d2ea77b feat: update git message template for multi-agent support"
+    },
+    {
+      "timestamp": "2025-09-18T20:36:07Z",
+      "branch": "main",
+      "uncommitted": 1,
+      "unpushed": 0,
+      "last_commit": "e8db575 chore(release): 3.7.2 [skip ci]"
+    },
+    {
+      "timestamp": "2025-09-18T20:30:14Z",
+      "branch": "main",
+      "uncommitted": 0,
+      "unpushed": 0,
+      "last_commit": "db1faca chore: remove unused legacy files from template"
+    },
+    {
+      "timestamp": "2025-09-18T20:25:05Z",
+      "branch": "main",
+      "uncommitted": 3,
+      "unpushed": 2,
+      "last_commit": "63157da Merge branch 'main' of https://github.com/vanman2024/multi-agent-claude-code"
+    },
+    {
+      "timestamp": "2025-09-18T20:23:44Z",
+      "branch": "main",
+      "uncommitted": 2,
+      "unpushed": 2,
+      "last_commit": "63157da Merge branch 'main' of https://github.com/vanman2024/multi-agent-claude-code"
+    },
+    {
+      "timestamp": "2025-09-18T20:16:13Z",
+      "branch": "main",
+      "uncommitted": 11,
+      "unpushed": 0,
+      "last_commit": "054453f feat: add devcontainer flag to template sync"
+    },
+    {
+      "timestamp": "2025-09-18T20:13:20Z",
+      "branch": "main",
+      "uncommitted": 11,
+      "unpushed": 0,
+      "last_commit": "054453f feat: add devcontainer flag to template sync"
+    },
+    {
+      "timestamp": "2025-09-18T18:27:51Z",
+      "branch": "main",
+      "uncommitted": 11,
+      "unpushed": 0,
+      "last_commit": "054453f feat: add devcontainer flag to template sync"
+    },
+    {
+      "timestamp": "2025-09-18T18:19:30Z",
+      "event": "session_end",
+      "branch": "main",
+      "uncommitted": 5,
+      "unpushed": 0,
+      "last_commit": "054453f feat: add devcontainer flag to template sync"
+    },
+    {
+      "timestamp": "2025-09-18T18:18:45Z",
+      "branch": "main",
+      "uncommitted": 5,
+      "unpushed": 0,
+      "last_commit": "054453f feat: add devcontainer flag to template sync"
+    },
+    {
+      "timestamp": "2025-09-18T18:13:47Z",
+      "branch": "main",
+      "uncommitted": 4,
+      "unpushed": 1,
+      "last_commit": "054453f feat: add devcontainer flag to template sync"
+    },
+    {
+      "timestamp": "2025-09-18T18:12:32Z",
+      "branch": "main",
+      "uncommitted": 0,
+      "unpushed": 1,
+      "last_commit": "b9f7328 feat: add devcontainer flag to template sync"
+    },
+    {
+      "timestamp": "2025-09-18T05:16:39Z",
+      "branch": "main",
+      "uncommitted": 0,
+      "unpushed": 0,
+      "last_commit": "5d4c9e9 feat: Add devcontainer support to sync-project.js"
+    },
+    {
+      "timestamp": "2025-09-18T05:15:02Z",
+      "branch": "main",
+      "uncommitted": 1,
+      "unpushed": 0,
+      "last_commit": "4b6461c chore: User file reorganization test"
+    },
+    {
+      "timestamp": "2025-09-18T05:14:36Z",
+      "branch": "main",
+      "uncommitted": 0,
+      "unpushed": 6,
+      "last_commit": "4b6461c chore: User file reorganization test"
+    },
+    {
+      "timestamp": "2025-09-18T05:12:57Z",
+      "branch": "main",
+      "uncommitted": 0,
+      "unpushed": 5,
+      "last_commit": "4ec5d26 fix: FINAL cleanup - keep only version-management.yml workflow"
+    },
+    {
+      "timestamp": "2025-09-18T05:11:02Z",
+      "branch": "main",
+      "uncommitted": 0,
+      "unpushed": 4,
+      "last_commit": "cd73c8c fix: Remove duplicate .github/templates that reappeared from stash"
+    },
+    {
+      "timestamp": "2025-09-18T05:08:39Z",
+      "branch": "main",
+      "uncommitted": 0,
+      "unpushed": 3,
+      "last_commit": "64a543c chore: Create lean template with minimal workflows"
+    },
+    {
+      "timestamp": "2025-09-18T04:56:50Z",
+      "branch": "main",
+      "uncommitted": 76,
+      "unpushed": 1,
+      "last_commit": "0f02543 feat: Restructure to three-repo architecture with pyproject.toml-only config"
+    },
+    {
+      "timestamp": "2025-09-18T04:54:30Z",
+      "branch": "main",
+      "uncommitted": 69,
+      "unpushed": 1,
+      "last_commit": "0f02543 feat: Restructure to three-repo architecture with pyproject.toml-only config"
+    },
+    {
+      "timestamp": "2025-09-18T04:49:23Z",
+      "branch": "main",
+      "uncommitted": 11,
+      "unpushed": 1,
+      "last_commit": "0f02543 feat: Restructure to three-repo architecture with pyproject.toml-only config"
+    },
+    {
+      "timestamp": "2025-09-18T04:49:05Z",
+      "event": "session_end",
+      "branch": "main",
+      "uncommitted": 10,
+      "unpushed": 1,
+      "last_commit": "0f02543 feat: Restructure to three-repo architecture with pyproject.toml-only config"
+    },
+    {
+      "timestamp": "2025-09-16T22:29:36Z",
+      "branch": "main",
+      "uncommitted": 0,
+      "unpushed": 0,
+      "last_commit": "59d566b feat: Integrate production readiness testing into backend testing structure"
+    },
+    {
+      "timestamp": "2025-09-16T22:20:29Z",
+      "branch": "main",
+      "uncommitted": 1,
+      "unpushed": 0,
+      "last_commit": "0304d43 [STABLE] fix: Update all agent MCP servers to use official GitHub and working Supabase"
+    },
+    {
+      "timestamp": "2025-09-16T22:19:49Z",
+      "branch": "main",
+      "uncommitted": 1,
+      "unpushed": 0,
+      "last_commit": "0304d43 [STABLE] fix: Update all agent MCP servers to use official GitHub and working Supabase"
+    },
+    {
+      "timestamp": "2025-09-16T22:18:06Z",
+      "branch": "main",
+      "uncommitted": 1,
+      "unpushed": 0,
+      "last_commit": "0304d43 [STABLE] fix: Update all agent MCP servers to use official GitHub and working Supabase"
+    },
+    {
+      "timestamp": "2025-09-16T21:54:01Z",
+      "branch": "main",
+      "uncommitted": 1,
+      "unpushed": 0,
+      "last_commit": "0304d43 [STABLE] fix: Update all agent MCP servers to use official GitHub and working Supabase"
+    },
+    {
+      "timestamp": "2025-09-16T21:52:03Z",
+      "branch": "main",
+      "uncommitted": 1,
+      "unpushed": 8,
+      "last_commit": "0304d43 [STABLE] fix: Update all agent MCP servers to use official GitHub and working Supabase"
+    },
+    {
+      "timestamp": "2025-09-16T21:38:01Z",
+      "branch": "main",
+      "uncommitted": 1,
+      "unpushed": 8,
+      "last_commit": "0304d43 [STABLE] fix: Update all agent MCP servers to use official GitHub and working Supabase"
+    },
+    {
+      "timestamp": "2025-09-16T21:37:24Z",
+      "branch": "main",
+      "uncommitted": 1,
+      "unpushed": 8,
+      "last_commit": "0304d43 [STABLE] fix: Update all agent MCP servers to use official GitHub and working Supabase"
+    },
+    {
+      "timestamp": "2025-09-16T21:37:16Z",
+      "branch": "main",
+      "uncommitted": 0,
+      "unpushed": 8,
+      "last_commit": "0304d43 [STABLE] fix: Update all agent MCP servers to use official GitHub and working Supabase"
+    },
+    {
+      "timestamp": "2025-09-16T21:35:32Z",
+      "branch": "main",
+      "uncommitted": 2,
+      "unpushed": 7,
+      "last_commit": "8f82f23 [STABLE] docs: Add Postman API testing to agent coordination workflow"
+    },
+    {
+      "timestamp": "2025-09-16T21:17:59Z",
+      "branch": "main",
+      "uncommitted": 0,
+      "unpushed": 7,
+      "last_commit": "8f82f23 [STABLE] docs: Add Postman API testing to agent coordination workflow"
+    },
+    {
+      "timestamp": "2025-09-16T21:13:31Z",
+      "branch": "main",
+      "uncommitted": 0,
+      "unpushed": 6,
+      "last_commit": "27d2d1d docs: Add comprehensive Postman integration documentation"
+    },
+    {
+      "timestamp": "2025-09-16T21:08:54Z",
+      "branch": "main",
+      "uncommitted": 3,
+      "unpushed": 5,
+      "last_commit": "04739ea [STABLE] docs: Update documentation for genericized testing framework"
+    },
+    {
+      "timestamp": "2025-09-16T21:05:39Z",
+      "branch": "main",
+      "uncommitted": 0,
+      "unpushed": 5,
+      "last_commit": "04739ea [STABLE] docs: Update documentation for genericized testing framework"
+    },
+    {
+      "timestamp": "2025-09-16T20:58:51Z",
+      "branch": "main",
+      "uncommitted": 10,
+      "unpushed": 4,
+      "last_commit": "a7246a0 [STABLE] refactor: Complete backend test genericization - remove all app-specific logic"
+    },
+    {
+      "timestamp": "2025-09-16T20:57:42Z",
+      "branch": "main",
+      "uncommitted": 6,
+      "unpushed": 4,
+      "last_commit": "a7246a0 [STABLE] refactor: Complete backend test genericization - remove all app-specific logic"
+    },
+    {
+      "timestamp": "2025-09-16T20:56:36Z",
+      "branch": "main",
+      "uncommitted": 3,
+      "unpushed": 4,
+      "last_commit": "a7246a0 [STABLE] refactor: Complete backend test genericization - remove all app-specific logic"
+    },
+    {
+      "timestamp": "2025-09-16T20:54:50Z",
+      "branch": "main",
+      "uncommitted": 1,
+      "unpushed": 4,
+      "last_commit": "a7246a0 [STABLE] refactor: Complete backend test genericization - remove all app-specific logic"
+    },
+    {
+      "timestamp": "2025-09-16T20:52:07Z",
+      "branch": "main",
+      "uncommitted": 1,
+      "unpushed": 4,
+      "last_commit": "a7246a0 [STABLE] refactor: Complete backend test genericization - remove all app-specific logic"
+    },
+    {
+      "timestamp": "2025-09-16T20:48:22Z",
+      "branch": "main",
+      "uncommitted": 0,
+      "unpushed": 4,
+      "last_commit": "a7246a0 [STABLE] refactor: Complete backend test genericization - remove all app-specific logic"
+    },
+    {
+      "timestamp": "2025-09-16T20:36:42Z",
+      "branch": "main",
+      "uncommitted": 1,
+      "unpushed": 3,
+      "last_commit": "0a05d06 [STABLE] refactor: Replace Signal Hire tests with generic placeholders"
+    },
+    {
+      "timestamp": "2025-09-16T20:32:00Z",
+      "branch": "main",
+      "uncommitted": 0,
+      "unpushed": 2,
+      "last_commit": "18842f1 [STABLE] refactor: Complete genericization of test file names"
+    },
+    {
+      "timestamp": "2025-09-16T20:18:37Z",
+      "branch": "main",
+      "uncommitted": 9,
+      "unpushed": 0,
+      "last_commit": "4357125 fix: Revert to relative paths for Claude hooks"
+    },
+    {
+      "timestamp": "2025-09-16T20:07:16Z",
+      "branch": "main",
+      "uncommitted": 4,
+      "unpushed": 0,
+      "last_commit": "4357125 fix: Revert to relative paths for Claude hooks"
+    },
+    {
+      "timestamp": "2025-09-16T19:12:22Z",
+      "branch": "main",
+      "uncommitted": 3,
+      "unpushed": 0,
+      "last_commit": "4357125 fix: Revert to relative paths for Claude hooks"
+    },
+    {
+      "timestamp": "2025-09-16T19:09:43Z",
+      "event": "session_end",
+      "branch": "main",
+      "uncommitted": 3,
+      "unpushed": 0,
+      "last_commit": "4357125 fix: Revert to relative paths for Claude hooks"
+    },
+    {
+      "timestamp": "2025-09-16T19:03:44Z",
+      "branch": "main",
+      "uncommitted": 2,
+      "unpushed": 0,
+      "last_commit": "4357125 fix: Revert to relative paths for Claude hooks"
+    },
+    {
+      "timestamp": "2025-09-16T18:52:41Z",
+      "branch": "main",
+      "uncommitted": 0,
+      "unpushed": 0,
+      "last_commit": "4f13e8e fix: Use absolute paths for Claude hooks to prevent subdirectory errors"
+    },
+    {
+      "timestamp": "2025-09-16T18:45:57Z",
+      "branch": "main",
+      "uncommitted": 0,
+      "unpushed": 0,
+      "last_commit": "7347643 [STABLE] feat: Add FastMCP testing framework with CLI patterns"
+    },
+    {
+      "timestamp": "2025-09-16T18:42:25Z",
+      "branch": "main",
+      "uncommitted": 5,
+      "unpushed": 5,
+      "last_commit": "b5ea9b5 [WORKING] feat: Complete agent documentation updates for multi-agent coordination"
+    },
+    {
+      "timestamp": "2025-09-16T18:26:07Z",
+      "branch": "main",
+      "uncommitted": 5,
+      "unpushed": 4,
+      "last_commit": "975b80f Merge branch 'main' of https://github.com/vanman2024/multi-agent-claude-code"
+    },
+    {
+      "timestamp": "2025-09-16T18:13:20Z",
+      "branch": "main",
+      "uncommitted": 0,
+      "unpushed": 4,
+      "last_commit": "975b80f Merge branch 'main' of https://github.com/vanman2024/multi-agent-claude-code"
+    },
+    {
+      "timestamp": "2025-09-15T02:04:13Z",
+      "branch": "main",
+      "uncommitted": 0,
+      "unpushed": 2,
+      "last_commit": "4c1c106 [WORKING] feat: Add /report-issue command for simple issue creation"
+    },
+    {
+      "timestamp": "2025-09-15T02:00:25Z",
+      "branch": "main",
+      "uncommitted": 2,
+      "unpushed": 1,
+      "last_commit": "0511066 [WORKING] feat: Make /create-issue command work with any repository"
+    },
+    {
+      "timestamp": "2025-09-15T01:57:04Z",
+      "branch": "main",
+      "uncommitted": 0,
+      "unpushed": 1,
+      "last_commit": "0511066 [WORKING] feat: Make /create-issue command work with any repository"
+    },
+    {
+      "timestamp": "2025-09-15T01:47:00Z",
+      "branch": "main",
+      "uncommitted": 0,
+      "unpushed": 0,
+      "last_commit": "d7cac68 docs: Add checkpointing feature documentation to agents"
+    },
+    {
+      "timestamp": "2025-09-15T01:43:49Z",
+      "branch": "fix-secrets-cleaned",
+      "uncommitted": 3,
+      "unpushed": 0,
+      "last_commit": "8a611f3 fix: Properly handle newlines in hook numeric values"
+    },
+    {
+      "timestamp": "2025-09-15T01:42:20Z",
+      "branch": "fix-secrets-cleaned",
+      "uncommitted": 2,
+      "unpushed": 0,
+      "last_commit": "8a611f3 fix: Properly handle newlines in hook numeric values"
+    },
+    {
+      "timestamp": "2025-09-15T01:41:55Z",
+      "branch": "fix-secrets-cleaned",
+      "uncommitted": 2,
+      "unpushed": 0,
+      "last_commit": "67371b4 fix: Fix integer comparison and JSON errors in work-checkpoint hook"
+    },
+    {
+      "timestamp": "2025-09-15T01:37:51Z",
+      "branch": "main",
+      "uncommitted": 0,
+      "unpushed": 13,
+      "last_commit": "a6f7dea [STABLE] feat: Add permission settings to all agent files"
+    },
+    {
+      "timestamp": "2025-09-15T01:10:11Z",
+      "branch": "main",
+      "uncommitted": 0,
+      "unpushed": 12,
+      "last_commit": "3f08674 chore: Update work journal"
+    },
+    {
+      "timestamp": "2025-09-15T01:07:45Z",
+      "branch": "main",
+      "uncommitted": 1,
+      "unpushed": 10,
+      "last_commit": "e3579b1 [STABLE] feat: Auto-cleanup agents/ subdirectory during sync"
+    },
+    {
+      "timestamp": "2025-09-15T01:04:31Z",
+      "branch": "main",
+      "uncommitted": 0,
+      "unpushed": 8,
+      "last_commit": "2f411f3 [WORKING] fix: Update agent file syncing to place files in project root"
+    },
+    {
+      "timestamp": "2025-09-15T01:00:50Z",
+      "event": "session_end",
+      "branch": "main",
+      "uncommitted": 24,
+      "unpushed": 7,
+      "last_commit": "90b844c fix: Remove README.md from sync to avoid conflicts"
+    },
+    {
+      "timestamp": "2025-09-15T01:00:47Z",
+      "event": "session_end",
+      "branch": "main",
+      "uncommitted": 23,
+      "unpushed": 7,
+      "last_commit": "90b844c fix: Remove README.md from sync to avoid conflicts"
+    },
+    {
+      "timestamp": "2025-09-15T00:37:40Z",
+      "branch": "main",
+      "uncommitted": 0,
+      "unpushed": 6,
+      "last_commit": "ac3708e fix: Improve project-sync workflow and constitution integration"
+    },
+    {
+      "timestamp": "2025-09-15T00:25:06Z",
+      "branch": "main",
+      "uncommitted": 5,
+      "unpushed": 5,
+      "last_commit": "6523078 feat: Add constitution.md integration to project-sync workflow"
+    },
+    {
+      "timestamp": "2025-09-15T00:19:20Z",
+      "branch": "main",
+      "uncommitted": 2,
+      "unpushed": 5,
+      "last_commit": "6523078 feat: Add constitution.md integration to project-sync workflow"
+    },
+    {
+      "timestamp": "2025-09-15T00:13:12Z",
+      "event": "session_end",
+      "branch": "main",
+      "uncommitted": 1,
+      "unpushed": 5,
+      "last_commit": "6523078 feat: Add constitution.md integration to project-sync workflow"
+    },
+    {
+      "timestamp": "2025-09-15T00:12:47Z",
+      "event": "session_end",
+      "branch": "main",
+      "uncommitted": 1,
+      "unpushed": 5,
+      "last_commit": "6523078 feat: Add constitution.md integration to project-sync workflow"
+    },
+    {
+      "timestamp": "2025-09-15T00:12:09Z",
+      "branch": "main",
+      "uncommitted": 1,
+      "unpushed": 5,
+      "last_commit": "6523078 feat: Add constitution.md integration to project-sync workflow"
+    }
+  ]
+}

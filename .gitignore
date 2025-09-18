@@ -1,0 +1,30 @@
+
+# Production readiness reports
+production_readiness_report_*
+.env
+.vercel
+
+# Project-specific
+.env.local
+.env.*.local
+*.log
+.DS_Store
+Thumbs.db
+
+# DevOps System
+devops/ops/.venv/
+devops/ops/logs/
+devops/deploy/logs/
+devops/ci/logs/
+
+# Testing
+testing/*/logs/
+testing/*/screenshots/
+testing/*/videos/
+testing/*/reports/
+test-results/
+playwright-report/
+
+# Agent Configuration
+agents/logs/
+agents/temp/

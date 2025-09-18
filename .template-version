@@ -1,0 +1,8 @@
+TEMPLATE_VERSION=unknown
+TEMPLATE_REPO=https://github.com/vanman2024/multi-agent-claude-code
+SYNC_DATE=2025-09-18
+
+# Template Update Commands:
+# /update-from-template --check     # Check for updates
+# /update-from-template --preview   # Preview changes  
+# /update-from-template             # Apply updates

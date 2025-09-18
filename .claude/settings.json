@@ -1,0 +1,44 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash /tmp/claude-code-test-project/.claude/hooks/load-context.sh"
+          }
+        ]
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 /tmp/claude-code-test-project/.claude/hooks/production_context_injector.py"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash /tmp/claude-code-test-project/.claude/hooks/work-checkpoint.sh"
+          }
+        ]
+      }
+    ],
+    "SessionEnd": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash /tmp/claude-code-test-project/.claude/hooks/save-work-state.sh"
+          }
+        ]
+      }
+    ]
+  }
+}
